@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Chuloboy.+20+YO;i'am+a+web,mobile+and+bot+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Den+Zidans.+20+YO;i'am+a+web,mobile+and+bot+developer">
   </a>
 </h1>
 
-## Hello, I'm [Chuloboy (Dans)](https://instagram.com/den.zidans) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello, I'm [Den Zidans](https://instagram.com/den.zidans) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 [<img src="https://img.shields.io/badge/Website-techwiz.biz.id-blue">](-)
 [<img src="https://img.shields.io/badge/Email-zidansatriaalfarizi@gmail.com-purple">](mailto:zidansatriaalfarizi@gmail.com)
 <a href="https://www.instagram.com/den.zidans" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
